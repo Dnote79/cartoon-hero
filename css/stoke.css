@@ -22,6 +22,7 @@ main{
 	max-width: 800px;
 	text-align: center;
 	padding: 20px;
+	text-align: center;
 }
 
 main img{
@@ -32,6 +33,7 @@ main img{
 h2{
 	font-size: 30px;
 	color: red;
+	text-align: center;
 }
 
 p{
